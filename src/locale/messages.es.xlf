@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="f65253954b66e929a8b4d5ecaf61f9129f8cec64" datatype="html">
+        <source>Dashboard</source>
+        <target>Tablero</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="33a29e29d6c1ae044e8e3350733a49c8dbeb18af" datatype="html">
+        <source>Heroes</source>
+        <target>Héroes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="213cb87bffcc51962494723660caa15b694bfc58" datatype="html">
+        <source>Hero name</source>
+        <target>Nombre del héroe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/heroes/heroes.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="498c59cee04355857c15b3dd248c3fd0bacb0273" datatype="html">
+        <source>go back</source>
+        <target>ir atrás</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/hero-detail/hero-detail.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c5f70aede841190815dace56a93d364bf8f447f4" datatype="html">
+        <source>save</source>
+        <target>guardar</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/hero-detail/hero-detail.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c27c43ba5843a0c79cb1526bf6296208727912c0" datatype="html">
+        <source>Hero Search</source>
+        <target>Buscar Héroe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/hero-search/hero-search.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
